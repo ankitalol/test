@@ -62,6 +62,7 @@ section{
 
 .main_box{
     background-color: rgba(255, 221, 0, 0.64);
+    linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
 }
 
 .blah{
